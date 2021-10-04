@@ -1,0 +1,8 @@
+implementation URL: http://training4-american-ws-hands-on.us-e2.cloudhub.io/api
+
+Proxy URL: http://training4-american-api-hands-on.us-e2.cloudhub.io/
+
+Client ID:
+9d08855c368840ea86cb341017689404
+Client Secret:
+a21C3B09FF6F4a8bA4cD1BBC64F7c29f
